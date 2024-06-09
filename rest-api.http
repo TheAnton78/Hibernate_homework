@@ -1,4 +1,4 @@
-GET http://localhost:8030/persons/by-age?city=Moscow
+GET http://localhost:8050/persons/by-city?city=MOSCOW
 Accept: application/json
 
 ###
